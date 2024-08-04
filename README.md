@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shashanksjain
-- 👀 I’m interested in AI, ML, Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science
+- 👀 I’m experienced in Generative AI, ML, Data Science, NLP
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me @shashanksjain
 
 <!---
